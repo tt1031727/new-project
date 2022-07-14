@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 14 18:00:29 MSK 2022","Thu Jul 14 18:00:59 MSK 2022","29584","chromium","test.spec.ts","Test redmine","","","Checking for previous revisions.",""
+"passed","Thu Jul 14 17:59:13 MSK 2022","Thu Jul 14 17:59:42 MSK 2022","28969","chromium","test.spec.ts","Test redmine","","","Сheck for avatar",""
+"passed","Thu Jul 14 18:00:21 MSK 2022","Thu Jul 14 18:00:53 MSK 2022","31874","chromium","test.spec.ts","Test redmine","","","Check ""getting started"" text",""
+"passed","Thu Jul 14 17:59:43 MSK 2022","Thu Jul 14 18:00:03 MSK 2022","20085","chromium","test.spec.ts","Test redmine","","","check the wiki text",""
+"passed","Thu Jul 14 17:59:42 MSK 2022","Thu Jul 14 18:00:21 MSK 2022","38853","chromium","test.spec.ts","Test redmine","","","check the search",""
+"passed","Thu Jul 14 18:00:03 MSK 2022","Thu Jul 14 18:00:29 MSK 2022","25955","chromium","test.spec.ts","Test redmine","","","Checking the ability to select all tasks",""
+"passed","Thu Jul 14 17:59:13 MSK 2022","Thu Jul 14 17:59:43 MSK 2022","29670","chromium","test.spec.ts","Test redmine","","","check the create new task",""
